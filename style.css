@@ -1,0 +1,294 @@
+
+
+body {
+	width: 1440px;
+	height:1022px;
+	margin: 0;
+	padding: 0;
+
+}
+main{
+	width:100%;/* 1440px;*/
+	overflow: hidden;
+	border: 4px solid black;
+	background-color: #E0FFFF;
+
+}
+header {
+	
+	width:70%; /*1440px/1440*100%;*/
+	border: 2px solid black;
+	overflow: hidden;
+	background-color: #E0FFFF;
+	
+}
+
+h1{
+	
+width: 11.875%;/*1440/171px*100;*/
+height: 70px;
+left: 180px;
+top: 33px;
+font-size: 2.5em;
+
+
+
+
+
+}
+
+nav {
+	 width:15.2777777778%; /*220px;*/
+	height: 503px;
+	margin: 2px;
+	border: 3px solid black;
+	
+	
+
+
+	
+}
+
+
+
+li{
+	margin: 1.5em;/*25px;*/
+	
+	font-size:1.25em; /*20px;*/
+}
+
+section{
+	width:100%; /*1440px;*/
+	height: 800px;
+
+}
+footer{
+border: 3px solid #000000;	
+
+}
+
+
+.find{
+
+	position: absolute;
+width:31.875%; /*459px;*/
+height: 70px;
+left: 1040px;
+top: 0px;
+
+
+font-size:1.8em; /*30px;*/
+line-height: 35px;
+
+
+border: 3px solid #000000;
+
+}
+
+
+
+
+
+.popular{
+	position: absolute;
+width:30.4166666667%; /*438px;*/
+height: 47px;
+left: 300px;
+top: 144px;
+
+
+font-size: 2.5em;/*40px;*/
+
+
+
+
+
+border: 3px solid #000000;
+
+}
+
+
+.fire{
+	position: absolute;
+width:18.4722222222%; /*266px;*/
+height: 47px;
+left: 300px;
+top: 533px;
+
+
+font-size:2.5em; /*40px;*/
+
+
+
+border: 3px solid #000000;
+
+}
+
+
+.greece{
+	position: absolute;
+width:6.80555555556%; /*98px;*/
+height: 35px;
+left: 350px;
+top: 465px;
+
+
+font-size:1.8em; /*30px;*/
+}
+
+
+.japan{
+	position: absolute;
+width: 105px;
+height: 35px;
+left: 650px;
+top: 465px;
+
+
+font-size: 30px;
+
+}
+
+
+
+
+
+.ispan{
+	position: absolute;
+width: 122px;
+height: 35px;
+left: 950px;
+top: 465px;
+
+
+font-size: 30px;
+
+}
+
+
+
+
+.italy{
+	position: absolute;
+width: 104px;
+height: 35px;
+left: 1250px;
+top: 465px;
+
+
+font-size: 30px;
+
+}
+
+
+
+.kipr{
+	position: absolute;
+width: 71px;
+height: 35px;
+left: 350px;
+top: 832px;
+
+font-size: 30px;
+
+}
+
+
+
+.turki{
+	position: absolute;
+width: 100px;
+height: 35px;
+left: 650px;
+top: 836px;
+
+
+font-size: 30px;
+
+}
+
+
+
+.egipt{
+	position: absolute;
+width: 95px;
+height: 35px;
+left: 950px;
+top: 836px;
+
+
+font-size: 30px;
+
+} 
+
+
+.bolgar{
+	position: absolute;
+width: 133px;
+height: 35px;
+left: 1250px;
+top: 836px;
+
+
+font-size: 30px;
+line-height: 35px;
+}
+
+.img1{
+	position: absolute;
+width:17.0833333333%; /*246px;*/
+height: 170px;
+left: 245px;
+top: 283px;
+}
+.img2{
+	position: absolute;
+width:15.2777777778%; /*220px;*/
+height: 173px;
+left: 580px;
+top: 283px;
+
+}
+.img3{
+	position: absolute;
+width:14.5833333333%; /*210px;*/
+height: 163px;
+left: 880px;
+top: 290px;
+
+}
+.img4{
+	position: absolute;
+width: 15%;/*216px;*/
+height: 161px;
+left: 1160px;
+top: 295px;
+}
+.img5{
+	position: absolute;
+width:15.6944444444%; /*226px;*/
+height: 152px;
+left: 240px;
+top: 672px;
+}
+.img6{
+	position: absolute;
+width: 213px;
+height: 152px;
+left: 600px;
+top: 680px;
+}
+.img7{
+	position: absolute;
+width: 210px;
+height: 160px;
+left: 900px;
+top: 672px;
+}
+.img8{
+	position: absolute;
+width: 208px;
+height: 160px;
+left: 1200px;
+top: 672px;
+}
